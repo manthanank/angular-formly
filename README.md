@@ -1,1 +1,1 @@
-# angular-formly
+# Angular Formly
